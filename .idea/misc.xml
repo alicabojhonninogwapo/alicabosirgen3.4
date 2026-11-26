@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.14 (Assessment_3_3_ALICABO_Python)" project-jdk-type="Python SDK" />
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="~\Downloads\alicabosirgen3.4-master\alicabosirgen3.4-master\.venv" project-jdk-type="Python SDK" />
+>>>>>>> fb8f40d (added dfs method 3.6)
 </project>
